@@ -4,7 +4,7 @@
 ### 📊 Análisis del mercado Airbnb en Madrid
 Proyecto de Power BI  
 🔗 **Informe interactivo (Power BI)**  
-👉 [Ver informe interactivo](https://app.powerbi.com/viewr=eyJrIjoiNDAwNDhjZjktMTc3Zi00NTNlLTljZjQtZmE5NjI3ODAxZGJhIiwidCI6IjhmMGQ0NTJjLWI3YTQtNDk2NC1iODEwLThjMzk3Mzc0NDc3YiIsImMiOjh9&pageName=4090f6037b6a2696584a)
+👉 [Ver informe interactivo](https://app.powerbi.com/view?r=eyJrIjoiNDAwNDhjZjktMTc3Zi00NTNlLTljZjQtZmE5NjI3ODAxZGJhIiwidCI6IjhmMGQ0NTJjLWI3YTQtNDk2NC1iODEwLThjMzk3Mzc0NDc3YiIsImMiOjh9&pageName=4090f6037b6a2696584a)
 
 ### 🎯 Objetivo del proyecto
 El objetivo de este proyecto es analizar la estructura del mercado de Airbnb en Madrid desde una perspectiva económica y de uso real, poniendo el foco en:  
