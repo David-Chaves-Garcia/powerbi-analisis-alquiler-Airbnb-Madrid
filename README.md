@@ -162,8 +162,7 @@ El diseño prioriza:
 ==> El mercado presenta una distribución de precios altamente asimétrica, donde la media no es representativa.  
 ==> La ubicación explica parte del precio, pero existe una variabilidad relevante dentro de los mismos distritos.  
 ==> La disponibilidad muestra patrones heterogéneos, reflejando distintos modelos de uso (residencial, mixto, inversión).  
-
-La oferta está claramente concentrada en un pequeño porcentaje de anfitriones, lo que tiene implicaciones económicas y regulatorias.
+==> La oferta está claramente concentrada en un pequeño porcentaje de anfitriones, lo que tiene implicaciones económicas y regulatorias.
 
 ### 🛠️ Herramientas utilizadas
 
