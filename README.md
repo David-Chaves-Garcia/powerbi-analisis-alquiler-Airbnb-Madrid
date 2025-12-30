@@ -113,7 +113,7 @@ Decisiones analíticas:
 - El binning se implementa mediante columnas calculadas, no medidas, para garantizar estabilidad y orden correcto.  
 
 ### 4️⃣ Concentración del mercado
-(images/Pagina_4_Concentracion.png)
+!(images/Pagina_4_Concentracion.png)
 Pregunta clave:  
 ¿Está la oferta distribuida de forma atomizada o concentrada?  
 Visuales:  
