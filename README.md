@@ -50,7 +50,7 @@ Este modelado permite:
 El informe se organiza en cuatro páginas, siguiendo una narrativa analítica progresiva.
 
 ### 1️⃣ Distribución de precios
-
+![Distribución de precios](images/pagina_1_precios.png)
 Pregunta clave:  
 ¿Cómo es la estructura de precios del mercado Airbnb en Madrid?
 
