@@ -2,7 +2,7 @@
 ## Power BI informe analítico de la estructura, disponibilidad y comportamiento del mercado del alquiler de Airbnb en Madrid
 
 ### 📊 Análisis del mercado Airbnb en Madrid
-Proyecto de Power BI — Portfolio
+Proyecto de Power BI
 
 ### 🎯 Objetivo del proyecto
 El objetivo de este proyecto es analizar la estructura del mercado de Airbnb en Madrid desde una perspectiva económica y de uso real, poniendo el foco en:  
@@ -18,6 +18,7 @@ El informe está orientado principalmente a:
 
 
 ### 🧾 Dataset y preparación de datos
+El dataset ha sido obtenido de Inside Airbnb. Dataset listings.csv Madrid, Comunidad de Madrid, Spain. 14 Septiembre de 2025
 El dataset original presenta:  
 · una proporción relevante de valores nulos, especialmente en precios y disponibilidad  
 · outliers extremos en precios  
@@ -26,8 +27,7 @@ El dataset original presenta:
 
 Decisiones clave de limpieza:  
 · Se eliminaron aproximadamente el 25 % de los registros sin precio, documentado explícitamente.  
-Los outliers no se eliminaron, ya que forman parte del mercado real; se trataron únicamente a nivel visual.  
-Se documentaron todas las decisiones de limpieza para garantizar transparencia y reproducibilidad.
+· Los outliers no se eliminaron, ya que forman parte del mercado real; se trataron únicamente a nivel visual.  
 
 
 ### 🧱 Modelado de datos
@@ -37,8 +37,9 @@ Fact_Listado: precios, disponibilidad, identificadores de alojamiento y propieta
 #### Tablas de dimensión  
 Dim_Propietario  
 Dim_Alojamiento (tipo de alojamiento)  
-Dim_Ubicacion (distrito y barrio)
-
+Dim_Ubicacion (distrito y barrio)  
+#### Tabla intermedia  
+Tramos Concentración
 
 Este modelado permite:  
 · análisis agregados robustos  
@@ -58,7 +59,7 @@ Visuales principales:
 - Precio mediano
 - Percentil 25
 - Percentil 75
-- Recorrido intercuartílico (IQR)
+- Precio medio
 
 
 #### Histograma de precios:
