@@ -72,6 +72,7 @@ Visuales principales:
 - El IQR se interpreta siempre en relación con la mediana, no como valor aislado.  
 
 ### 2️⃣ Estructura espacial de precios
+![Estructura espacial de precios](images/Pagina_2_Espacial.png)
 Pregunta clave:  
 ¿Cómo varían los precios según la ubicación?  
 Visuales:  
@@ -86,6 +87,7 @@ Esta página permite identificar:
 - Valores extremos de precio mediano por barrio en algunos casos debido a que cuenta con muy pocos valores y son justamente extremos
 
 ### 3️⃣ Disponibilidad y patrones de uso
+![Disponibilidad](images/Pagina_3_Disponibilidad.png)
 Pregunta clave:  
 ¿Cómo se utilizan realmente los alojamientos a lo largo del año?  
 Visuales:  
@@ -111,6 +113,7 @@ Decisiones analíticas:
 - El binning se implementa mediante columnas calculadas, no medidas, para garantizar estabilidad y orden correcto.  
 
 ### 4️⃣ Concentración del mercado
+(images/Pagina_4_Concentracion.png)
 Pregunta clave:  
 ¿Está la oferta distribuida de forma atomizada o concentrada?  
 Visuales:  
