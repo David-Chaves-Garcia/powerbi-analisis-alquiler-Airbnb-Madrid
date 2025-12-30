@@ -143,10 +143,15 @@ Esta página muestra de forma clara que:
 · Segmentadores sincronizados entre páginas cuando es relevante. 
 
 
+#### 🛈 Uso de tooltips explicativos
+El informe incorpora tooltips contextuales en los principales visuales y KPIs para facilitar su interpretación.
+Estos tooltips explican conceptos estadísticos clave (percentiles, dispersión, concentración) y criterios analíticos,
+permitiendo mantener el diseño limpio sin sobrecargar las páginas con texto visible.  
+
 El diseño prioriza:  
-·legibilidad  
-·coherencia visual  
-·mínima fricción cognitiva  
+· legibilidad  
+· coherencia visual  
+· mínima fricción cognitiva  
 
 ### 🧠 Principales conclusiones
 ==> El mercado presenta una distribución de precios altamente asimétrica, donde la media no es representativa.  
@@ -157,6 +162,5 @@ La oferta está claramente concentrada en un pequeño porcentaje de anfitriones,
 
 ### 🛠️ Herramientas utilizadas
 
-Power BI Desktop
-
+Power BI Desktop  
 DAX para medidas y columnas calculadas
